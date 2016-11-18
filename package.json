@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "A Product Management Service for our store",
   "scripts": {
-    "start": "node productApi.js"
+    "start": "node productAPI.js"
   },
   "dependencies": {
     "body-parser": "^1.13.1",
